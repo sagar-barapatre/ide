@@ -377,6 +377,11 @@ nav.nav-centered .module.widget-handle {
   border-radius: 50%;
 }
 
+.widget-handle .cart .label:hover {
+  background: #fff;
+  color: #fc4f4f;
+}
+
 .widget-handle .search-form {
   padding: 8px;
   display: inline-block;
